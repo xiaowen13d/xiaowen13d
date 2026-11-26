@@ -1,0 +1,12 @@
+# UpdateTime: 2026-11-26 19:09:56
+# RuleCount: 10
+DOMAIN,out-public-web-net-a-internet-736356483.cn-northwest-1.elb.amazonaws.com.cn
+DOMAIN,ali-stats.jpush.cn
+DOMAIN,stats.jpush.cn
+DOMAIN,user.jpush.cn
+DOMAIN,api.xhorse.net.cn
+DOMAIN,xm.xhorse.net.cn
+DOMAIN,bugly.qq.com
+IP-CIDR,114.132.165.205/32,no-resolve
+IP-CIDR,124.70.6.168/32,no-resolve
+IP-CIDR,139.9.202.119/32,no-resolve
